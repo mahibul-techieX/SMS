@@ -1,0 +1,6 @@
+{
+  "name": "SchoolFee Manager",
+  "description": "Offline-first desktop school fee management software for Class 1 to 10 with rapid barcode scanning, student financial ledger, multi-format thermal/A4 receipt printing, and WhatsApp reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
